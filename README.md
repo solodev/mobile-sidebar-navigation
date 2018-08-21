@@ -1,12 +1,14 @@
 # mobile-sidebar-navigation
-Learn how to add a dropdown navigation to replace your sidebar navigation on mobile devices.
+One of the best design strategies you can have while developing a website is "How will this look on mobile?"
+
+From font choices to overall page structure, going from a full-sized desktop display to a much smaller mobile screen can radically shape how your website appears to visitors. If your website visitors can't clearly navigate through your website on their phones, your organization could be losing out on business.
 
 ## Tutorial		  
-TEXT
+For detailed instructions, view <a href="https://www.solodev.com/blog/web-design/how-to-make-your-sidebar-navigation-mobile-responsive.stml">How to Make Your Sidebar Navigation Mobile Responsive</a> article.
  
 ## Demo
   		  
-Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/5uy31hbg/).
+Try out a working example on <a href="https://jsfiddle.net/solodev/5uy31hbg/">JSFiddle</a>.
 
 ## HTML
 
